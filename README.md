@@ -22,6 +22,6 @@ A responsive and modern **landing page** designed for **Ryan Sports Club**, buil
 No installation needed — simply open the `index.html` file in your browser.
 
 ```bash
-git clone https://github.com/farhanalishah23/ryan-sports-club.git
-cd ryan-sports-club
+git clone https://github.com/farhanalishah23/Ryan-Sports-Club.git
+cd Ryan-Sports-Club
 
